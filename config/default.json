@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:StuiKd6XxWMQEZ55@almaty99.gyaag6s.mongodb.net/?retryWrites=true&w=majority&appName=almaty99",
+    "secretKey" : "mern-secret-key"
+}
